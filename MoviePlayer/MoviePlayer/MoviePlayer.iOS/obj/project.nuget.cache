@@ -1,0 +1,53 @@
+{
+  "version": 2,
+  "dgSpecHash": "KkVMqHfWHGH5tulCxpyDjfrpsHLEvqcaZ+rX6BeRktjqI+ZZI38usxMfb7MmaZlAglUKvF88W6/e1y/dpPkWhg==",
+  "success": false,
+  "projectFilePath": "D:\\Project\\Project Xamarin\\MoviePlayer\\MoviePlayer\\MoviePlayer\\MoviePlayer.iOS\\MoviePlayer.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ronny\\.nuget\\packages\\plugin.mediamanager\\0.9.0\\plugin.mediamanager.0.9.0.nupkg.sha512",
+    "C:\\Users\\Ronny\\.nuget\\packages\\plugin.mediamanager.forms\\0.9.0\\plugin.mediamanager.forms.0.9.0.nupkg.sha512",
+    "C:\\Users\\Ronny\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
+    "C:\\Users\\Ronny\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Ronny\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Ronny\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512",
+    "C:\\Users\\Ronny\\.nuget\\packages\\xamarin.forms.pancakeview\\2.3.0.759\\xamarin.forms.pancakeview.2.3.0.759.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project MoviePlayer is not compatible with xamarinios10 (Xamarin.iOS,Version=v1.0). Project MoviePlayer does not support any target frameworks.",
+      "libraryId": "MoviePlayer",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project MoviePlayer is not compatible with xamarinios10 (Xamarin.iOS,Version=v1.0) / win. Project MoviePlayer does not support any target frameworks.",
+      "libraryId": "MoviePlayer",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0/win"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project MoviePlayer is not compatible with xamarinios10 (Xamarin.iOS,Version=v1.0) / win-x64. Project MoviePlayer does not support any target frameworks.",
+      "libraryId": "MoviePlayer",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0/win-x64"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project MoviePlayer is not compatible with xamarinios10 (Xamarin.iOS,Version=v1.0) / win-x86. Project MoviePlayer does not support any target frameworks.",
+      "libraryId": "MoviePlayer",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
+}

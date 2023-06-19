@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "GS7POGh90VxLrsecU0ZyHgtM9ZlAFGvu+sTK2JIpr2A/dFRWuv18UjOniLgIMn44DGbk3zRWq+vE0oZ/tbc9aw==",
+  "success": false,
+  "projectFilePath": "D:\\Project\\Project Xamarin\\MoviePlayer\\MoviePlayer\\MoviePlayer\\MoviePlayer\\MoviePlayer.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to read project information for 'MoviePlayer': '1.2.0.' is not a valid version string."
+    }
+  ]
+}
